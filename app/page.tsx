@@ -404,7 +404,7 @@ export default function Home() {
                   asChild
                   variant="outline"
                   size="lg"
-                  className="text-white border-white hover:bg-white/10"
+                  className="text-black border-white hover:bg-white/10"
                 >
                   <Link href="/services">View Pricing</Link>
                 </Button>
