@@ -12,7 +12,7 @@ export function Footer() {
               <span className="font-bold text-xl">Ignition B</span>
             </Link>
             <p className="text-gray-400">
-              Professional driving instruction from a former racing champion. Learn to drive with confidence.
+              Professional driving instruction from a racing champion. Learn to drive with confidence.
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-gray-400 hover:text-white">
@@ -96,10 +96,8 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400 space-y-2">
-              <p>123 Speedway Boulevard</p>
-              <p>Racetown, RT 12345</p>
-              <p>Phone: (555) 123-4567</p>
-              <p>Email: info@ignitionb.com</p>
+              <p><strong>Email:</strong> info@ignitionb.com</p>
+              <p><strong>Address:</strong> Jl. Raya Babakan Canggu No.119A, Canggu, Kuta Utara, Badung Regency, Bali 80351</p>
             </address>
           </div>
         </div>
