@@ -237,7 +237,7 @@ export default function Home() {
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="relative aspect-video overflow-hidden rounded-xl">
                 <Image
-                  src="/placeholder.svg?height=720&width=1280"
+                  src="/student1.JPG"
                   alt="Professional racer"
                   fill
                   className="object-cover"
@@ -398,7 +398,7 @@ export default function Home() {
                   size="lg"
                   className="bg-red-600 hover:bg-red-700"
                 >
-                  <Link href="/contact">Book a Lesson</Link>
+                  <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20services">Book a Lesson</Link>
                 </Button>
                 <Button
                   asChild

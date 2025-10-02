@@ -18,7 +18,7 @@ export default function ServicesPage() {
           <div className="absolute inset-0 bg-black/60 z-10" />
           <div className="relative h-[50vh] w-full">
             <Image
-              src="/placeholder.svg?height=720&width=1280"
+              src="/cars2.JPG?height=720&width=1280"
               alt="Driving instruction"
               fill
               className="object-cover"
@@ -60,7 +60,7 @@ export default function ServicesPage() {
                 <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
                   <div className="relative aspect-video overflow-hidden rounded-xl">
                     <Image
-                      src="/placeholder.svg?height=720&width=1280"
+                      src="/student3.JPG"
                       alt="Car driving lesson"
                       fill
                       className="object-cover"
@@ -132,7 +132,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20beginner%20drivng%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -165,7 +165,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20manual%20drivng%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -198,7 +198,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20refresher%20course">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -281,7 +281,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20beginner%20rider%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -314,7 +314,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20intermediate%20rider%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -347,7 +347,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20advanced%20rider%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -430,7 +430,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20beginner%20drift%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -463,7 +463,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20intermediate%20drift%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -492,7 +492,7 @@ export default function ServicesPage() {
                           </li>
                         </ul>
                         <Button asChild className="w-full bg-red-600 hover:bg-red-700">
-                          <Link href="/contact">Book Now</Link>
+                          <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20advanced%20drift%20classes">Book Now</Link>
                         </Button>
                       </CardContent>
                     </Card>
@@ -544,7 +544,7 @@ export default function ServicesPage() {
               </div>
               <div className="relative aspect-video overflow-hidden rounded-xl">
                 <Image
-                  src="/placeholder.svg?height=720&width=1280"
+                  src="/student4.JPG?height=720&width=1280"
                   alt="Private instruction"
                   fill
                   className="object-cover"
@@ -568,7 +568,7 @@ export default function ServicesPage() {
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center mt-12">
               <div className="relative aspect-video overflow-hidden rounded-xl">
                 <Image
-                  src="/placeholder.svg?height=720&width=1280"
+                  src="/team1.JPG?height=720&width=1280"
                   alt="Corporate event"
                   fill
                   className="object-cover"
@@ -622,9 +622,9 @@ export default function ServicesPage() {
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
                 <Button asChild size="lg" className="bg-red-600 hover:bg-red-700">
-                  <Link href="/contact">Book a Lesson</Link>
+                  <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20services">Book a Lesson</Link>
                 </Button>
-                <Button asChild variant="outline" size="lg" className="text-white border-white hover:bg-white/10">
+                <Button asChild variant="outline" size="lg" className="text-black border-white hover:bg-white/10">
                   <Link href="/faq">View FAQs</Link>
                 </Button>
               </div>

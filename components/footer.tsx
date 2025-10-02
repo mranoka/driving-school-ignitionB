@@ -8,8 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-2">
-              <Car className="h-6 w-6 text-red-500" />
-              <span className="font-bold text-xl">Ignition B</span>
+              <span className="font-bold text-xl">IgnitionB</span>
             </Link>
             <p className="text-gray-400">
               Professional driving instruction from a racing champion. Learn to drive with confidence.

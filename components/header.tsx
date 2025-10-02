@@ -16,11 +16,11 @@ export function Header() {
       <div className="container flex h-16 items-center">
         <Link href="/" className="flex items-center gap-2 mr-6">
           <Image 
+          id="ignitionBLogo"
           src="/ignitionb-logo-wp.png" 
           alt="ignitionb driving school logo"
           width={100} 
           height={100} />
-          <span className="font-bold text-xl hidden sm:inline-block">Ignition B</span>
         </Link>
         <nav className="hidden md:flex gap-6 flex-1">
           <Link href="/" className="text-sm font-medium transition-colors hover:text-red-600">
@@ -36,12 +36,9 @@ export function Header() {
             FAQ
           </Link>
         </nav>
-        <div className="hidden md:flex items-center gap-4 ml-auto">
-          <Button asChild variant="outline">
-            <Link href="/contact">Contact Us</Link>
-          </Button>
+        <div className="hidden md:flex items-center gap-6 ml-auto">
           <Button asChild className="bg-red-600 hover:bg-red-700">
-            <Link href="/contact">Book a Lesson</Link>
+            <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20services">Book a Lesson</Link>
           </Button>
         </div>
         <Sheet open={isOpen} onOpenChange={setIsOpen}>
@@ -94,9 +91,9 @@ export function Header() {
                   Contact
                 </Link>
               </nav>
-              <div className="flex flex-col gap-2 mt-auto">
+              <div className="flex flex-col gap-4 mt-auto">
                 <Button asChild className="w-full bg-red-600 hover:bg-red-700" onClick={() => setIsOpen(false)}>
-                  <Link href="/contact">Book a Lesson</Link>
+                  <Link href="https://wa.me/62895331302535?text=Greetings%20I%20would%20like%20to%20enquire%20about%20your%20services">Book a Lesson</Link>
                 </Button>
               </div>
             </div>
