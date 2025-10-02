@@ -17,7 +17,7 @@ export default function AboutPage() {
           <div className="absolute inset-0 bg-black/60 z-10" />
           <div className="relative h-[50vh] w-full">
             <Image
-              src="/placeholder.svg?height=720&width=1280"
+              src="/cars2.JPG"
               alt="Racing team in garage"
               fill
               className="object-cover"
@@ -28,10 +28,10 @@ export default function AboutPage() {
             <div className="container px-4 md:px-6 text-center">
               <div className="space-y-4 text-white">
                 <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-                  About <span className="text-red-500">Ignition B</span>
+                  About <span className="text-red-500">IgnitionB</span>
                 </h1>
                 <p className="mx-auto max-w-[700px] text-lg md:text-xl">
-                  Our story, our team, and our passion for driving excellence
+                  Our story, our team and our passion for driving excellence
                 </p>
               </div>
             </div>
@@ -43,7 +43,7 @@ export default function AboutPage() {
           <div className="container px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="space-y-4">
-                <div className="inline-block rounded-lg bg-red-100 px-3 py-1 text-sm text-red-700">Our Story</div>
+                <div className="inline-block rounded-lg bg-red-100 px-3 py-1 text-lg text-red-600">- Our Story </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
                   From the Racetrack to the Classroom
                 </h2>
@@ -64,7 +64,7 @@ export default function AboutPage() {
               </div>
               <div className="relative aspect-square overflow-hidden rounded-xl">
                 <Image
-                  src="/placeholder.svg?height=800&width=800"
+                  src="/classtime.JPG"
                   alt="Founder portrait"
                   fill
                   className="object-cover"
@@ -308,7 +308,7 @@ export default function AboutPage() {
                 <Button asChild size="lg" className="bg-red-600 hover:bg-red-700">
                   <Link href="/contact">Book a Lesson</Link>
                 </Button>
-                <Button asChild variant="outline" size="lg" className="text-white border-white hover:bg-white/10">
+                <Button asChild variant="outline" size="lg" className="text-black border-white hover:bg-white/10">
                   <Link href="/services">Explore Courses</Link>
                 </Button>
               </div>
